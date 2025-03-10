@@ -1,19 +1,9 @@
- __  __ _ _                     ____ _                      _ 
-|  \/  (_) |_ ___  _ __ ___    / ___| |__   __ _ _ __   ___| |
-| |\/| | | __/ _ \| '_ ` _ \  | |   | '_ \ / _` | '_ \ / _ \ |
-| |  | | | || (_) | | | | | | | |___| | | | (_| | | | |  __/ |
-|_|  |_|_|\__\___/|_| |_| |_|  \____|_| |_|\__,_|_| |_|\___|_|
+Kiva Network BOT
 
-Airdrop & Bounty - mitomchanel
-https://t.me/mitomchanel
-
-Tool Auto Mining Kiva Network
-
-Link đăng kí: https://kivanet.com/register.html?code=LA9R4S
-
-Đăng kí Email, Nhập Mã: LA9R4S
-Gửi Email: Verify Me đến verify@kivanet.com Từ mail đã đăng kí
-Đăng nhập: https://app.kivanet.com
+Register Here : [Kiva Network](https://kivanet.com/register.html?code=LA9R4S)
+Use Code : LA9R4S
+Send Email : Verify Me to verify@kivanet.com With Same Registered Email
+Login : https://app.kivanet.com/
 
 Chức năng:
 Auto Mining
